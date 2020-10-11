@@ -10,3 +10,9 @@ Surgió en la **década de los noventas**.
 
 Ahora agregaremos más líneas de _Markdown_.
 
+---
+
+También es posible colocar algunos separadores
+
+---
+
